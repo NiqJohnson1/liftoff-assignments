@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I'm creating a student record system that holds student information for classes and personal student data (name, student ID, year, and email). In order for a student to return to campus, they must be vaccinated. I want to add a vaccine column that will display YES or NO to a student being vaccinated or not. If a student has received the vaccine, the system approves their class syllabus. Otherwise a "hold screen" will remain on the student's account until vaccine documentation has been received.
 ### Features
-Include Features here
+A user will be able to login to access the portal. 
+	Student Login Module
+	Admin Login Module
+	Search Feature - Admin accounts can search for students info
+	Upload document - PDF
+
 ### Technologies
-Include Technologies here
+Java
+Spring 
+MySQL
+IntelliJ
+Hibernate
+ThymeLeaf Templates
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I want to be able to create an upload feature for the vaccine column. A student should be able to upload their vaccination document to their profile which will be updated on the admin side. 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/LCVR02FG/my-liftoff-project
